@@ -1,0 +1,5 @@
+blog_post.md
+game_venv/*
+.DS_Store
+.idea/
+math_quiz_adventure_backup.py
